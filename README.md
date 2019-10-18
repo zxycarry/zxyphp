@@ -1,2 +1,2 @@
 # zxyphp
-PHP project
+结合thinkphp框架练习了一下MVC模式开发php项目
